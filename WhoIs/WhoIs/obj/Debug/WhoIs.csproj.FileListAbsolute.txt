@@ -1,0 +1,14 @@
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\bin\Debug\WhoIs.exe.config
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\bin\Debug\WhoIs.exe
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\bin\Debug\WhoIs.pdb
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.csprojResolveAssemblyReference.cache
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.frmWhoIs.resources
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.Properties.Resources.resources
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.csproj.GenerateResource.Cache
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.csproj.CoreCompileInputs.cache
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.exe
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.pdb
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\bin\Debug\WhoIs.exe.manifest
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\bin\Debug\WhoIs.application
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.exe.manifest
+C:\Users\ta\Documents\Visual Studio 2017\Projects\WhoIs\WhoIs\obj\Debug\WhoIs.application
